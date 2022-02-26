@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Funerall elegies. Or The sad muses in sables, singing the Epicediums of his Highness Prince Maurice, Count Palatine of the Rhine, Duke of Bavaria, &amp;c. James Duke of Lenox and Richmond. Iohn Earl of Rivers. Iohn Cleveland, the much-cry'd up poet. / Written by S.H.</title>
+            <author>S. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74083</idno>
+            <idno type="STC">Wing H117</idno>
+            <idno type="STC">Thomason E838_9</idno>
+            <idno type="STC">ESTC R207434</idno>
+            <idno type="EEBO-CITATION">99866483</idno>
+            <idno type="PROQUEST">99866483</idno>
+            <idno type="VID">118758</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118758)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 127:E838[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Funerall elegies. Or The sad muses in sables, singing the Epicediums of his Highness Prince Maurice, Count Palatine of the Rhine, Duke of Bavaria, &amp;c. James Duke of Lenox and Richmond. Iohn Earl of Rivers. Iohn Cleveland, the much-cry'd up poet. / Written by S.H.</title>
+                  <author>S. H.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Wilson at the Three Foxes in Long-lane,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of Publication from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "May. 14. 1658".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rivers, John Savage, --  Earl of, 1603-1654 --  Early works to 1800.</term>
+               <term>Lennox, James Stuart, --  Duke of, 1612-1655 --  Early works to 1800.</term>
+               <term>Maurice, --  Prince, 1620-1652 --  Early works to 1800.</term>
+               <term>Cleveland, John, 1613-1658 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118758:1" rendition="simple:additions"/>
+            <p>Funerall Elegies.</p>
+            <p>OR THE Sad Muſes in Sables, ſinging the <hi>Epicediums</hi>
+OF
+<list>
+                  <item>HIS Highneſs Prince <hi>Maurice,</hi> Count Pala<g ref="char:EOLhyphen"/>tine of the Rhine, Duke of Bavaria, &amp;c.</item>
+                  <item>
+                     <hi>James</hi> Duke of Lenox and Richmond.</item>
+                  <item>
+                     <hi>Iohn</hi> Earl of Rivers.</item>
+                  <item>
+                     <hi>Iohn Cleveland,</hi> the much-cry'd up Poet.</item>
+               </list>
+            </p>
+            <p>Written by <hi>S. H.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a skeleton with a skull and crossbones</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>Tho. Wilſon</hi> at the Three Foxes in Long-lane. <add>1655</add>
+            </p>
+            <pb facs="tcp:118758:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118758:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>I</hi> Hope I ſhall not be peſter'd with thoſe ſtubborn preciſe Pup<g ref="char:EOLhyphen"/>pies, that turn all uſefull and allow'd contentments into ſcabs and ſcruples, they are very fairly ſet out indeed, and ſo are fore-horſes, <hi>Ariſtotles</hi> Problems and Powder'd-Beef, are rare dyet; But I ſhall not care to tell the World, that I de<g ref="char:EOLhyphen"/>ſpiſe ſuch painted Momes, ſuch gaudy trifles, indeed theſe men when they ſpeak, ſpeak Oracles, for no man underſtands them, nor themſelvs neither ſuch Gim-cracks made of mops and motions, a true noble Gentleman is a brave thing, and to ſuch generous Souls I onely vail my Bonnet; the honeſt and ingenious Citizen ſhall alſo command me, but I have Armour of proof to protect me from the proud ſcornings of the firſt ſort of ſhallow Pates; Theſe Elegies have taken wing with a full gale, and will flye in the faces of thoſe that ſhall obſtruct their travell about the World. I hope there are ſome that will give free leave that the ſence of theſe Elegies may ſink into their con<g ref="char:EOLhyphen"/>ſiderations, to ſuch <hi>I</hi> am</p>
+            <closer>
+               <signed>A ſincere Servitor.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:118758:3"/>
+            <head>An Elegie on the report of the Death of the moſt renowned Prince (as wel for Vertue as Magnanimity.) Prince <hi>Maurice,</hi> &amp;c.</head>
+            <l>
+               <seg rend="decorInit">P</seg>Rompt me you Imps of <hi>Jove</hi> and Memory,</l>
+            <l>I ſing his <hi>Exit,</hi> whoſe Infinity</l>
+            <l>Of vertues merit an Angel-like Muſe,</l>
+            <l>O be propitious, pleaſe for to infuſe</l>
+            <l>Tragick <hi>Melpomene</hi> (while I compriſe</l>
+            <l>His large ſiz'd Volume) thy beſt Rhapſodies;</l>
+            <l>He that made Valour ſlave to <hi>Martiall</hi> skill;</l>
+            <l>He that knew how for to command his will</l>
+            <l>More then his Myrmydons, and could with eaſe</l>
+            <l>Teach <hi>Talbot, Scipio,</hi> and <hi>Themiſtocles;</hi>
+            </l>
+            <l>He the great Maſter of the Dorick Quire,</l>
+            <l>The Drum, the Trumpet, and the Phrygian Lyre;</l>
+            <l>He that like Thunder ſtill his paſſage wrought,</l>
+            <l>Who led like <hi>Caeſar,</hi> and like <hi>Sceva</hi> fought,</l>
+            <l>Is ſtoop'd unto the Grave (be proud thou Earth)</l>
+            <l>More ſplendid then that Queen that gave him birth;</l>
+            <l>Forbear ye giddy gang, who Witchcraft prove,</l>
+            <l>And rip up <hi>Tellus</hi> womb for Treaſure trove,</l>
+            <l>No more of inhum'd treaſure will we babble,</l>
+            <l>We know where lyes a Jem ineſtimable;</l>
+            <l>Glory of Princes, ſwept away to ſate</l>
+            <l>The inſatiate avarice of greedy Fate:</l>
+            <l>Let Eaſtern Princes offer unto thee,</l>
+            <l>Their Crowns, their Scepters, and their Soveraignty;</l>
+            <l>And at thy Tomb (the glory of thy years)</l>
+            <l>Pay a due tribute, blood commixt with tears:</l>
+            <l>Doth not the Genius of the World comply</l>
+            <l>With <hi>Jove</hi> himſelf, to howle thy Elegy?</l>
+            <l>
+               <pb facs="tcp:118758:3"/>
+               <hi>Saturnus,</hi> as when his Sarpedon fell,</l>
+            <l>(That Lycian, who ſave thee wants paralell)</l>
+            <l>Diſtill'd ſalt tears, <hi>Homer</hi> no doubt comply'd</l>
+            <l>With Propheſie, and thou wert typifi'd</l>
+            <l>In his myſterious Poem, Heaven's eye did weep,</l>
+            <l>While thou wert hurried hence by death and ſleep,</l>
+            <l>Worthy <hi>Pſymnaticus</hi> his Sepulcher,</l>
+            <l>Thy body <hi>Mars,</hi> and <hi>Pallas</hi> did interre,</l>
+            <l>Whoſe Vertues, Fame, alternately reſounds,</l>
+            <l>Even from <hi>Ganges</hi> to <hi>Alcides</hi> bounds;</l>
+            <l>Now neer <hi>Joves</hi> throne with an internall eye,</l>
+            <l>Thou ſit'ſt and menaceſt Mortality,</l>
+            <l>Having by the indulgent will of Fate,</l>
+            <l>Immolumated the <hi>Palatinate:</hi>
+            </l>
+            <l>This he that weeps thy worth is proud to tell,</l>
+            <l>And he that doubts it, is an Infidell.</l>
+         </div>
+         <div type="elegy">
+            <head>AN ELEGIE On the death of the moſt illuſtrious Prince <hi>JAMES,</hi> Duke of <hi>Lenox</hi> and <hi>Richmond,</hi> &amp;c.</head>
+            <l>WHat balefull ſounds are theſ ſalute mine eare?</l>
+            <l>What ſadneſs is't that triumphs every where?</l>
+            <l>Each loyall face is clouded o're, each eye</l>
+            <l>Rains tears, what may this ſorrow ſignifie?</l>
+            <l>Speak thou that tak'ſt a pride to tell of deeds</l>
+            <l>Dire and deform'd; what miſchief's this that leads</l>
+            <l>A generall ruine? crack thou mighty frame!</l>
+            <l>
+               <hi>LENOX</hi> is dead! <hi>LENOX</hi> whoſe honour'd Name,</l>
+            <l>Gave life to vertue, not ſo great as good,</l>
+            <l>
+               <hi>And more Ally'd to Kings in worth then Blood:</hi>
+            </l>
+            <l>Had not the Midwiſe wrapt his Infant Limbs</l>
+            <l>In Purple ſtudded with the choiceſt Gems,</l>
+            <l>Nor Princes Goſſipt at his birth; his mind</l>
+            <l>(So neer of kin to Heaven) had aſſign'd</l>
+            <l>
+               <pb facs="tcp:118758:4"/>
+Large Provinces unto his open hand,</l>
+            <l>For <hi>Wiſe and good men onely ſhould command;</hi>
+            </l>
+            <l>But it was time to travell hence, when we</l>
+            <l>Have reduc'd all unto a Paritie:</l>
+            <l>What <hi>Hero's</hi> heart but cracks, when he muſt give,</l>
+            <l>Worſhip to Wood-Mongers, or ceaſe to live?</l>
+            <l>Or if he but ſigh out his diſcontent,</l>
+            <l>Have his bright Star torn from his Firmament?</l>
+            <l>He that's the God of Honour takes a pride,</l>
+            <l>To have ſome more then others dignifide;</l>
+            <l>Nor can his luſtre radiate the Earth,</l>
+            <l>That is not rais'd by Vertue, or by Birth:</l>
+            <l>But thou (illuſtrious Prince) wert born to all</l>
+            <l>Thoſe glories that illuminate thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ball,</l>
+            <l>Wealth worthily impos'd, a glittering pomp</l>
+            <l>Befits a heart ſo bleſt as thine, whoſe ſtamp</l>
+            <l>Was all Aetheriall; every act of thine</l>
+            <l>Proclaim'd a perpetration moſt divine:</l>
+            <l>We were not worthy longer to detain</l>
+            <l>Such Excellence on Earth, things that are vain</l>
+            <l>And empty, beſt befit this ſin-ſwoln Time,</l>
+            <l>
+               <hi>When to be vertuous is a mortall crime;</hi>
+            </l>
+            <l>Peruſe the ſtarry Gallery, and there</l>
+            <l>Behold this ſemi-Deity appeare,</l>
+            <l>A Conſtellation ſhining 'bove the Poles,</l>
+            <l>More bright then Myriads of Sainted Soules.</l>
+         </div>
+         <div type="elegy">
+            <head>On the Death of the Right Hono<g ref="char:EOLhyphen"/>rable and excellently accompliſhed, <hi>John Earle of Rivers.</hi>
+            </head>
+            <l>TO ſpeak our griefs over thy ſacred Urne,</l>
+            <l>(Unleſs the whole World were at once to mourn)</l>
+            <l>Were triviall; could we pin upon thy Herſe</l>
+            <l>The ſenſe of <hi>Saluſt,</hi> and the ſcul of Verſe,</l>
+            <l>We were but lame admirers at the beſt,</l>
+            <l>And learnedly our Ignorance confeſt;</l>
+            <l>
+               <pb facs="tcp:118758:4"/>
+He that thy death unto the life would moan,</l>
+            <l>Muſt claim that very Genius thou didſt own;</l>
+            <l>
+               <hi>Hyperion,</hi> and the Daughters of high <hi>Jove,</hi>
+            </l>
+            <l>We may invoke in vain, for 'tis above</l>
+            <l>The Epocha of Poeſie to tell,</l>
+            <l>Or find a ſit and genuine paralell</l>
+            <l>For thee, whoſe life and death ſhall give renown,</l>
+            <l>To the great Monarch of the Triple Crown;</l>
+            <l>A man (though born to fill bright Honours Throne)</l>
+            <l>Yet humble unto admiration:</l>
+            <l>No Saffron-guilded Pomp, or gaudy Tire,</l>
+            <l>Could lift thy conſtant ſoul one cubit higher,</l>
+            <l>Then Piety admits ſuch as might well,</l>
+            <l>Make the Court-Standard ſubject to the Cell:</l>
+            <l>Incomparable <hi>Heroe!</hi> in thy fall,</l>
+            <l>All Honour, Worth, and Wit finds funerall:</l>
+            <l>Time that had ſprain'd his feet, now wants his eyes,</l>
+            <l>Founder'd in thy funebrious Exequies:</l>
+            <l>Nor ſince great <hi>CHARLS</hi> forſook the earth for Heaven,</l>
+            <l>Has any <hi>Heroe</hi> trod his path ſo even</l>
+            <l>As thou haſt done; this then our bliſs ſhall be,</l>
+            <l>We cannot erre while we contemplate thee,</l>
+            <l>Whoſe great and good example ſhall create</l>
+            <l>Catholike Chriſtians (who'l accumulate</l>
+            <l>A Roman conſtancy) Champions that can,</l>
+            <l>Rout Armies of the Solifidian,</l>
+            <l>And (next to Heavens glory) ſeek no fame,</l>
+            <l>Save the protection of thy honour'd Name.</l>
+         </div>
+         <div type="elegy">
+            <head>On the death of the High-priz'd Poet JOHN CLEAVELAND, <abbr>Esq</abbr>
+            </head>
+            <l>WHat, are all ſilent! are the Sons of Art,</l>
+            <l>Afraid to mention this dead <hi>Aſcapart?</hi>
+            </l>
+            <l>This <hi>Colbrand</hi> of <hi>Caſtalia,</hi> he whoſe ſtrength,</l>
+            <l>Takes up nine Acres at the leaſt in length:</l>
+            <l>Like <hi>Titius,</hi> every line of his might well,</l>
+            <l>Serve <hi>Fauſtus,</hi> or <hi>Agrippa</hi> for a Spell;</l>
+            <l>
+               <pb facs="tcp:118758:5"/>
+Nor durſt the Romaniſt his Numbers mind,</l>
+            <l>Till with the Croſs he had his fore-head ſign'd;</l>
+            <l>Thou great Gargantuan, huge Coloſſian Bard,</l>
+            <l>Who ſhall dare ſing thy worth unleſſe prepar'd</l>
+            <l>With Sack and Sulphure, every word ſhould pierce</l>
+            <l>Like Thunder through the wond'ring Univerſe;</l>
+            <l>Although thou art inhum'd (to fancy Fate)</l>
+            <l>Yet ſtill to us thou doſt tonitruate,</l>
+            <l>Thy words want each an <hi>Atlas;</hi> we can Rant,</l>
+            <l>'Tis true, but not like thee (our Termagant)</l>
+            <l>Whoſe every ſyllable a ſentence is,</l>
+            <l>Each word an Axiome, thou haſt ſearcht Abyſſe,</l>
+            <l>(The Muſes <hi>Hercules)</hi> and ſhown to us,</l>
+            <l>That triple-headed bandog <hi>Cerberus,</hi>
+            </l>
+            <l>So by the Magick of thy haughty Rhimes,</l>
+            <l>The Powers celeſtiall cringe to mortall crimes:</l>
+            <l>No marvell thou couldſt cramp ſo many Pens,</l>
+            <l>Whoſe face and belly were as big as <hi>Bens:</hi>
+            </l>
+            <l>Gyant of Wit as well as Bulk, thy Quill,</l>
+            <l>(That Maule of minds) reſts on the Muſes Hill</l>
+            <l>A ſacred Trophey; ye ſmall Wits bow down,</l>
+            <l>Give worſhip to this Baſhaw of the Gown;</l>
+            <l>Grand Vizier to <hi>Apollo,</hi> the Vice-King</l>
+            <l>Of fair <hi>Caſtalia,</hi> when thy Soule took wing,</l>
+            <l>Why didſt thou not appoint who ſhould ſucceed?</l>
+            <l>Who now ſhall dare to wear thy Regall weed?</l>
+            <l>To put the Lawrell on, or to give Law</l>
+            <l>In Verſe that would keep <hi>Lucifer</hi> in awe;</l>
+            <l>Like <hi>Alexanders</hi> Captains, wanting thee,</l>
+            <l>We now ſhall quarrell for Supremacie;</l>
+            <l>For thou haſt left a world of wit behind,</l>
+            <l>For thoſe to ſhare whom bleſſings cannot bind;</l>
+            <l>Thus like ſome mighty Potentate that dyes</l>
+            <l>Without an Heir, thoſe Laws and Liberties</l>
+            <l>So oft confirm'd by Phoebus Parliament,</l>
+            <l>Shall be made void, yet on thy Monument</l>
+            <l>We will preſume this Epitaph to grave,</l>
+            <l>
+               <hi>Here</hi> Cleveland <hi>lyes, whoſe Wit went wondrous brave.</hi>
+            </l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
